@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ApKozZ
-- 👀 I’m interested in Web(major) and animations
+- 👀 I’m interested in Web(major) and animations(spare time)
 - 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
